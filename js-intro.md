@@ -35,7 +35,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-5. Give a brief description of proper pair programming techniques. What are the rolls of each person?
+5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
   Your answer:
 
